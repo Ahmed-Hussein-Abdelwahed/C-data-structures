@@ -220,8 +220,7 @@ public:
 
 		while (true)
 		{
-			cout << "\n========== welcome to stack program ==========\n"
-				<< "[1] Stack top\n"
+			cout << "[1] Stack top\n"
 				<< "[2] Push\n"
 				<< "[3] Pop\n"
 				<< "[4] Peak\n"
