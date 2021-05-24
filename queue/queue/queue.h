@@ -185,8 +185,7 @@ public:
 
 		while (true)
 		{
-			cout << "\n ========== Welcome to queue program ==========\n"
-				<< " [1] Queue first\n"
+			cout << " [1] Queue first\n"
 				<< " [2] Queue last\n"
 				<< " [3] EnQueue\n"
 				<< " [4] Dequeue\n"
